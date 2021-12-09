@@ -1,3 +1,27 @@
 [submodule "multi-columnLayouts"]
 	path = multi-columnLayouts
 	url = /home/zefloor/zerotocode/multi-columnLayouts
+[submodule "enhancingImages"]
+	path = enhancingImages
+	url = https://github.com/zeFloor/enhancingImages
+[submodule "usingGridSystem"]
+	path = usingGridSystem
+	url = https://github.com/zeFloor/usingGridSystem
+[submodule "ocalaNewsletter"]
+	path = ocalaNewsletter
+	url = https://github.com/zeFloor/ocalaNewsletter
+[submodule "responsiveWebDesign"]
+	path = responsiveWebDesign
+	url = https://github.com/zeFloor/responsiveWebDesign
+[submodule "stylingTable"]
+	path = stylingTable
+	url = https://github.com/zeFloor/stylingTable
+[submodule "transitionsAndAnimations"]
+	path = transitionsAndAnimations
+	url = https://github.com/zeFloor/transitionsAndAnimations
+[submodule "roomRenter"]
+	path = roomRenter
+	url = https://github.com/zeFloor/roomRenter
+[submodule "alices-restaurant"]
+	path = alices-restaurant
+	url = https://github.com/zeFloor/alices-restaurant
